@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+header{
+    text-align: center;
+    color: white;
+    background-color:#3b1919 ;
+    padding: 30px;
+    line-height: 1rem;
+    font-size: .8em;
+    margin-bottom: 0;
+}
+h1{
+    font-size: 1.3em;
+}
+
+#about-us{
+    margin: 0;
+    display: block;
+    background-color: #fff4f4;
+
+}
+h3{
+    display: block;
+    text-align: left;
+    padding-top: 1.5rem;
+    margin-left: 15px;
+    font-size: .9rem;
+}
+#abt{
+    display: block;
+    padding: 15px;
+    font-size: .7rem;
+    box-shadow: 0 0 -5px 0;
+    unicode-bidi: isolate;
+}
+#fitness-eqip{
+    box-shadow:0 -5px 2px 2px whitesmoke ;
+    padding-bottom: 50px;
+    margin-top: 30px;
+}
+table,tbody,th,td{
+    border-collapse: collapse;
+    
+    border:solid black 1px;
+    font-size: small; 
+    
+}
+table{
+    width: 95%;
+    line-height: 1.5rem;
+    margin:15px 15px 5px 20px ;
+}
+tbody{
+    height: 5rem;
+}
+
+.images{
+    width: 50px;
+}
+th{
+    background-color:#3b1919 ;
+    color: white;
+    text-align: left;
+    padding-left: 15px;
+}
+td{
+    font: 1em sans-serif;
+    line-height: 4rem;
+    margin-left: 5px;
+    padding-left: 15px;
+}
+.eqipments-img{
+    width: 80px;
+}
+
+.eqipments{
+    text-align: center;
+    display: block;
+    background-color: #f3f3f3;
+    margin: 15px;
+}
+h6{
+    font-size:.8rem;
+}
+.p{
+    font-size: .6rem;
+}
+ul{
+    padding-left: 40px;
+    font-size: smaller;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+#tips{
+    margin-top: 45px;
+    padding-top: 15px;
+    background-color: #fff8f8;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    line-height: 2rem;
+}
